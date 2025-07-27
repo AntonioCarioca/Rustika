@@ -1,17 +1,12 @@
 [
   {
-    "id": "bolos",
-    "nome": "Bolos",
-    "image": "/imgs/categorias/default.jpg"
+    "id": "doce",
+    "nome": "Doces",
+    "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/categorias/doces.png"
   },
   {
-    "id": "salgados",
-    "nome": "Salgados",
-    "image": "/imgs/categorias/default.jpg"
+    "id": "paes e assados",
+    "nome": "Pães e Assados",
+    "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/categorias/Paes-e-Assados.png"
   },
-  {
-    "id": "saladas",
-    "nome": "Saladas",
-    "image": "/imgs/categorias/default.jpg"
-  }
 ]
