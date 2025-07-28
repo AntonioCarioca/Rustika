@@ -19,7 +19,7 @@
 },
 {
     "title": "Pudim de Leite",
-    "description": "Clássico da confeitaria brasileira, o pudim de leite é uma sobremesa tradicional que conquista gerações com sua textura cremosa e sabor delicadamente adocicado.",
+    "description": "Sobremesa tradicional com textura cremosa e sabor delicadamente adocicado.",
     "category": "Doces",
     "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/receitas/Pudim-de-Leite.png",
     "ingredients": [
