@@ -59,7 +59,7 @@
 {
     "title": "Pão de Queijo",
     "description": "Perfeito para acompanhar um café fresco ou servir em lanches e cafés da manhã.",
-    "category": "Pães e Assados",
+    "category": "Pães",
     "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/receitas/Pao-de-Queijo.png",
     "ingredients": [
         "1 xícara de queijo meia-cura.",
