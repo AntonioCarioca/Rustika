@@ -16,4 +16,22 @@
         " Prepare a gelatina com a água quente.",
         "Depois é só bater todos os ingredientes no liquidificador e colocar numa travessa para gelar."
     ]
+},
+{
+    "title": "Pudim de Leite",
+    "description": "Clássico da confeitaria brasileira, o pudim de leite é uma sobremesa tradicional que conquista gerações com sua textura cremosa e sabor delicadamente adocicado.",
+    "category": "Doces",
+    "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/receitas/Pudim-de-Leite.png",
+    "ingredients": [
+        "1 caixa de leite condensado.",
+        "A mesma medida da caixa de leite condensado de leite integral.",
+        "3 ovos.",
+        "1 xícara (chá) de açúcar refinado."
+    ],
+    "steps": [
+        "Preaqueça o forno em temperatura média (180º).",
+        "Bata por 5 minutos no liquidificador o leite condensado, leite e os ovos.Reserve.",
+        "Coloque o açúcar em uma forma com furo no meio.Leve ao fogo até o açúcar derrete e formar um caramelo.Retire do fogo, espalhe o caramelo por toda a forma e despeje a mistura batida. Cubra com papel - alumínio.",
+        "Leve ao forno, em banho - maria, por 1 hora e 40 minutos ou até o pudim ficar firme.Depois de 1 hora elimine o papel - alumínio.Retire do forno, espere amornar e leve à geladeira por 3 horas antes de servir."
+    ]
 }]
