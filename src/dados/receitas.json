@@ -55,4 +55,23 @@
         "Retire pequenas porções do brigadeiro e faça bolinhas com as mãos.",
         "Passe as bolinhas no chocolate em pó e sirva."
     ]
+},
+{
+    "title": "Pão de Queijo",
+    "description": "Perfeito para acompanhar um café fresco ou servir em lanches e cafés da manhã.",
+    "category": "Pães e Assados",
+    "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/receitas/Pao-de-Queijo.png",
+    "ingredients": [
+        "1 xícara de queijo meia-cura.",
+        "1 xícara de polvilho azedo.",
+        "1 xícara de creme de leite.",
+        "Farinha e óleo para untar."
+    ],
+    "steps": [
+        "Rale o queijo na parte grossa do ralador.",
+        "Adicione o queijo.polvilho e o creme de leite em volumes iguais em uma tijela.Adicione um pouco de sal caso necessário.Misture delicadamente, tome cuidado para não quebrar o queijo.",
+        "Unte uma assadeira com óleo e farinha.Com duas colheres, faça bolinhas com a massa.",
+        "Aqueça o forno a 200° C.",
+        "Asse até ficar dourado."
+    ]
 }]
