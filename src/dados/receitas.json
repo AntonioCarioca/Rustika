@@ -34,4 +34,25 @@
         "Coloque o açúcar em uma forma com furo no meio.Leve ao fogo até o açúcar derrete e formar um caramelo.Retire do fogo, espalhe o caramelo por toda a forma e despeje a mistura batida. Cubra com papel - alumínio.",
         "Leve ao forno, em banho - maria, por 1 hora e 40 minutos ou até o pudim ficar firme.Depois de 1 hora elimine o papel - alumínio.Retire do forno, espere amornar e leve à geladeira por 3 horas antes de servir."
     ]
+},
+{
+    "title": "Brigadeiro Gourmet",
+    "description": "Com uma textura cremosa e sabor intensificado pelo chocolate nobre e nozes.",
+    "category": "Doces",
+    "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/receitas/Brigadeiro-Gourmet.png",
+    "ingredients": [
+        "1 caixa de leite condensado.",
+        "200 g de chocolate meio amargo picado.",
+        "1 / 2 xícara de nozes picadas.",
+        "100 g de chocolate ao leite picado.",
+        "1 e 1 / 2 colher de sopa de Manteiga.",
+        "Chocolate em pó para polvilhar."
+    ],
+    "steps": [
+        "Em uma panela, adicione o leite condensado, chocolate amargo, chocolate ao leite, ao nozes e manteiga.",
+        "Misture tudo e leve ao fogo médio, mexendo sempre até soltar do fundo por cerca de 10 a 15 minutos.",
+        "Retire do fogo e deixe esfriar.",
+        "Retire pequenas porções do brigadeiro e faça bolinhas com as mãos.",
+        "Passe as bolinhas no chocolate em pó e sirva."
+    ]
 }]
