@@ -74,4 +74,34 @@
         "Aqueça o forno a 200° C.",
         "Asse até ficar dourado."
     ]
+},
+{
+    "title": "Torta Escocesa",
+    "description": "A torta escocesa é uma sobremesa sofisticada, com camadas que combinam textura e sabor de forma irresistível.",
+    "category": "Doces",
+    "image": "https://raw.githubusercontent.com/AntonioCarioca/rustika-imgs/refs/heads/main/receitas/Torta-Escocesa.png",
+    "ingredients": [
+        "200 g de biscoito maisena",
+        "200 g de chocolate meio amargo (ou ao leite, se preferir)",
+        "100 g de manteiga derretida",
+        "2 lata de creme de leite (sem soro)",
+        "2 colheres (sopa) de manteiga",
+        "1 lata de leite condensado",
+        "1 colher(chá) de essência de baunilha",
+        "1/2 xícara (chá) de açúcar"
+    ],
+    "steps": [
+        "Triture os biscoitos no liquidificador ou processador até virar uma farofa.",
+        "Misture com a manteiga derretida até formar uma massa.",
+        "Forre o fundo de uma forma de aro removível (ou um refratário).",
+        "Leve à geladeira  por 15 a 20 minutos, enquanto prepara o recheio.",
+        "Em uma panela, coloque o leite condensado, o açúcar e a manteiga.",
+        "Leve ao fogo baixo, mexendo sempre, até engrossar e formar um creme levemente dourado (ponto de brigadeiro mole).",
+        "Desligue o fogo, adicione o creme de leite e a essência de baunilha.",
+        "Misture bem e despeje sobre a base da torta. Leve novamente à geladeira por pelo menos 30 minutos a 1 hora.",
+        "Derreta o chocolate em banho-maria ou no micro-ondas (de 30 em 30 segundos, mexendo).",
+        "Misture com o creme de leite até formar um ganache liso.",
+        "Espalhe sobre o recheio já firme.",
+        "Leve à geladeira por no mínimo 4 horas antes de servir."
+    ]
 }]
